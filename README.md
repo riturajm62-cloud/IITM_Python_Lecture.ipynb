@@ -15,6 +15,9 @@ This repository contains my Python practice code and notes from the IIT Madras B
 * Lecture 1: A quick introduction to variables
 * Lecture 2: Variables and input statements
 * Lecture 3:Variables and literals
+* Lecture 4:Data Types 1
+* Lecture 5: Data Types 2
+* Lecture 6: Operators and Expressions 1 
 
 (More lectures will be added regularly as the course progresses.)
 ## Note: This repository is mainly for learning and revision purposes.

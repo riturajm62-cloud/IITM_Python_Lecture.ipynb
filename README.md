@@ -13,6 +13,7 @@ This repository contains my Python practice code and notes from the IIT Madras B
 * Topic-wise revision content
 ## Current Contents
 * Week1.
+* Week2.
 * 
 * 
 
